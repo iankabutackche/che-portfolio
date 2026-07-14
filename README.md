@@ -2,11 +2,13 @@
 
 个人作品集网站，展示教育背景、技术栈与项目经历（X-TechInsight、Avocado 等）。
 
-**在线访问：** https://iankabutackche.github.io/che-portfolio/
+**在线访问：**
+- 主站（GitHub Pages）：https://iankabutackche.github.io/che-portfolio/
+- 备用（Vercel）：https://che-portfolio.vercel.app/
 
 ## 技术栈
 
-React · Vite · CSS · react-icons · GitHub Pages
+React · Vite · CSS · react-icons · GitHub Pages · Vercel
 
 ## 功能
 
@@ -27,6 +29,8 @@ npm run dev
 npm run build
 npx gh-pages -d dist
 ```
+
+Vercel 已配置 `vercel.json`，连接 GitHub 仓库后会自动构建部署。
 
 ## 作者
 
