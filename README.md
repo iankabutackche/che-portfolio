@@ -4,7 +4,7 @@
 
 **在线访问：**
 - 主站（GitHub Pages）：https://iankabutackche.github.io/che-portfolio/
-- 备用（Vercel）：导入 GitHub 仓库后自动生成，形如 `https://che-portfolio-xxx.vercel.app`
+- 备用（Vercel）：https://xingche.vercel.app/
 
 ## 技术栈
 
@@ -30,7 +30,7 @@ npm run build
 npx gh-pages -d dist
 ```
 
-Vercel 已配置 `vercel.json`，连接 GitHub 仓库后会自动构建部署。
+Vercel 已连接 GitHub 仓库，推送 `main` 分支后会自动构建部署。
 
 ## 作者
 
