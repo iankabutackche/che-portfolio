@@ -1,6 +1,3 @@
-# 部署到 GitHub Pages 后自动构建
-# 访问地址：https://<你的用户名>.github.io/che-portfolio/
-
 name: Deploy to GitHub Pages
 
 on:

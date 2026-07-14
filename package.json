@@ -1,7 +1,14 @@
 {
   "name": "che-portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Personal portfolio site for Ian Che",
+  "author": "Ian Che",
+  "homepage": "https://iankabutackche.github.io/che-portfolio/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iankabutackche/che-portfolio.git"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
