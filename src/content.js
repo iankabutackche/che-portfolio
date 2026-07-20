@@ -14,14 +14,14 @@ export const content = {
       role: "初级软件工程师 · 全栈开发（应届）",
       credentials: "UNSW · QS 全球前 20 / 澳大利亚第 1  ·  石河子大学 · 211 / 双一流",
       tagline:
-        "新南威尔士大学（UNSW）信息技术硕士（2025 届），有课程项目与个人练习项目的全栈开发经历。独立完成 RAG 文档问答练习项目并完成公网部署；在 Capstone 小组中参与推荐系统的前后端开发。熟悉 Python、React、PostgreSQL、Docker 等常用技术，仍在持续巩固基础与工程能力。",
+        "新南威尔士大学（UNSW）信息技术硕士（2025 届），有课程项目与个人项目的全栈开发经历。独立完成 RAG 文档问答项目并完成公网部署；在 Capstone 小组中担任组长，带领团队完成推荐系统的前后端开发。熟悉 Python、React、PostgreSQL、Docker 等常用技术，仍在持续巩固基础与工程能力。",
       ctaProjects: "查看项目",
       ctaContact: "联系我",
     },
     about: {
       title: "关于我",
       p1: "教育背景涵盖海外顶尖院校与国内重点高校：新南威尔士大学（UNSW）信息技术硕士（2025 届），QS 世界大学排名全球前 20、澳大利亚第 1；本科就读于石河子大学信息管理与信息系统专业（2015 – 2019），国家「211」「双一流」建设高校。",
-      p2: "有课程项目与个人练习项目的全栈开发经历：独立完成 RAG 文档问答练习项目并完成公网部署；在 Capstone 小组中参与推荐系统的前后端开发。熟悉 Python、React、PostgreSQL、Docker 等常用技术，仍在持续巩固基础与工程能力。",
+      p2: "有课程项目与个人项目的全栈开发经历：独立完成 RAG 文档问答项目并完成公网部署；在 Capstone 小组中担任组长，带领团队完成推荐系统的前后端开发。熟悉 Python、React、PostgreSQL、Docker 等常用技术，仍在持续巩固基础与工程能力。",
       eduTitle: "教育背景",
       edu: [
         {
@@ -76,14 +76,14 @@ export const content = {
         {
           name: "Avocado",
           subtitle: "AI 团队–项目智能推荐系统",
-          type: "UNSW Capstone",
-          desc: "基于技能画像互补性的推荐系统，帮助导师分配项目、团队匹配合适课题。",
+          type: "UNSW Capstone · 组长",
+          desc: "基于技能画像互补性的推荐系统，担任项目组长，带领团队完成前后端开发与部署。",
           tags: ["React", "Flask", "PostgreSQL", "scikit-learn", "Docker"],
           demo: null,
           highlights: [
-            "Flask 后端 API + React 前端全栈协作开发",
-            "PostgreSQL 数据建模与 Docker Compose 部署",
-            "Random Forest 推荐算法集成与功能测试",
+            "担任项目组长，协调 Flask 后端与 React 前端全栈开发",
+            "组织 PostgreSQL 数据建模与 Docker Compose 部署",
+            "协调 Random Forest 推荐算法集成与功能测试",
           ],
         },
       ],
@@ -115,7 +115,7 @@ export const content = {
       title: "保持联系",
       subtitle: "应届硕士，目前正在寻找全职软件工程师岗位，欢迎联系与交流。",
       email: "ian.kabutack@gmail.com",
-      phone: "150-4385-7875",
+      phone: "192-7987-1163",
       sayHello: "发送邮件",
     },
     footer: "© 2026 车行 · Built with React + Vite",
@@ -135,14 +135,14 @@ export const content = {
       role: "Junior Software Engineer · Full Stack · Recent Graduate",
       credentials: "UNSW · QS Top 20 / #1 in Australia  ·  Shihezi Univ. · Project 211 & Double First-Class",
       tagline:
-        "Recent UNSW Master of IT graduate (2025) with hands-on practice in full stack web development through coursework, a capstone team project, and a personal RAG learning project. Comfortable with Python, React, PostgreSQL, and Docker; still building depth in software engineering fundamentals and production practices.",
+        "Recent UNSW Master of IT graduate (2025) with hands-on full stack experience through coursework and projects. Independently built and deployed a RAG documentation Q&A platform; served as team lead on a capstone recommendation system, guiding frontend and backend development. Comfortable with Python, React, PostgreSQL, and Docker; still building depth in software engineering fundamentals and production practices.",
       ctaProjects: "View Projects",
       ctaContact: "Get in Touch",
     },
     about: {
       title: "About Me",
       p1: "Education spans a top Australian university and a leading Chinese institution: Master of IT from UNSW (2025), QS World University Rankings Top 20 (#1 in Australia); B.S. in Information Management & Information Systems from Shihezi University (2015 – 2019), a Project 211 & Double First-Class university in China.",
-      p2: "Hands-on full stack experience through coursework and projects: built and deployed a personal RAG documentation Q&A platform; contributed to frontend and backend development on a capstone recommendation system. Comfortable with Python, React, PostgreSQL, and Docker; still building depth in software engineering fundamentals.",
+      p2: "Hands-on full stack experience through coursework and projects: independently built and deployed a RAG documentation Q&A platform; served as team lead on a capstone recommendation system, guiding frontend and backend development. Comfortable with Python, React, PostgreSQL, and Docker; still building depth in software engineering fundamentals.",
       eduTitle: "Education",
       edu: [
         {
@@ -197,14 +197,14 @@ export const content = {
         {
           name: "Avocado",
           subtitle: "AI Team–Project Recommendation System",
-          type: "UNSW Capstone",
-          desc: "Matches student teams to capstone projects by skill complementarity for tutors and teams.",
+          type: "UNSW Capstone · Team Lead",
+          desc: "Recommendation system by skill complementarity; served as team lead guiding full stack development and deployment.",
           tags: ["React", "Flask", "PostgreSQL", "scikit-learn", "Docker"],
           demo: null,
           highlights: [
-            "Flask APIs + React frontend in a team setting",
-            "PostgreSQL schema design & Docker Compose",
-            "Random Forest recommendation integration & testing",
+            "Team lead coordinating Flask APIs and React frontend development",
+            "Organized PostgreSQL schema design & Docker Compose deployment",
+            "Coordinated Random Forest recommendation integration & testing",
           ],
         },
       ],
@@ -236,7 +236,7 @@ export const content = {
       title: "Get In Touch",
       subtitle: "Recent graduate seeking full-time software engineering roles. Feel free to reach out.",
       email: "ian.kabutack@gmail.com",
-      phone: "+86 150-4385-7875",
+      phone: "+86 192-7987-1163",
       sayHello: "Say Hello",
     },
     footer: "© 2026 Ian Che · Built with React + Vite",
